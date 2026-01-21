@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CineMatch: The Couple's Movie Guide",
+  "description": "A dynamic movie recommendation tool for couples to find what to watch next across Netflix, Hulu, Max, Peacock, and Amazon Prime, featuring streaming status, trailers, and collaborative watchlists.",
+  "requestFramePermissions": []
+}
