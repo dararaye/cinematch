@@ -1,5 +1,5 @@
 import { GoogleGenAI, Type } from "@google/genai";
-import { Movie } from "./types";
+import { Movie } from "../types";
 
 const getApiKey = () => {
   // @ts-ignore
